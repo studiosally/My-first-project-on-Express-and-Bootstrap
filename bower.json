@@ -1,0 +1,20 @@
+{
+  "name": "express-dinamic-content",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Wally Torres <wally@studiosally.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
